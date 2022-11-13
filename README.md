@@ -1,8 +1,8 @@
 
 <div id="top"></div>
             
-[![MIT License][license-shield]](https://github.com/Atugriceri/e-commerce-react-app/blob/main/LICENSE)
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/alpertugriceri/)
+[![MIT License][license-shield]](https://github.com/hasibulislam999/amazon-clone-simple1/blob/main/LICENSE)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/hasibulislam999/)
 
 
 <br />
