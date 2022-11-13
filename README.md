@@ -7,7 +7,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/Atugriceri/e-commerce-react-app">
+  <a href="https://github.com/hasibulislam999/amazon-clone-simple1">
     <img src="https://openmoji.org/data/color/svg/1F6D2.svg" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">E-Commerce-React-App</h3>
